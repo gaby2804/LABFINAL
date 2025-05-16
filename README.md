@@ -24,8 +24,11 @@ La transformada wavelet es una herramienta que nos permite conocer las señales 
 
 ## Materiales y Requerimientos
 • Python
+
 • matplotlib
+
 • Modulo EKG
+
 • Señal adquirida
 
 ## Referencias
