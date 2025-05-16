@@ -24,9 +24,13 @@ La transformada wavelet es una herramienta que nos permite conocer las señales 
 
 ## Referencias
 •	Addison, P. S. (2005). Wavelet transforms and the ECG: a review. Physiological Measurement, 26(5), R155–R199.
-	•	Berntson, G. G., Bigger, J. T., Eckberg, D. L., et al. (1997). Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology, 34(6), 623–648.
-	•	Guyton, A. C., & Hall, J. E. (2011). Textbook of Medical Physiology (12th ed.). Saunders.
-	•	Mallat, S. (1999). A Wavelet Tour of Signal Processing. Academic Press.
-	•	Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. (1996). Heart rate variability: standards of measurement, physiological interpretation and clinical use. Circulation, 93(5), 1043–1065.
+
+•	Berntson, G. G., Bigger, J. T., Eckberg, D. L., et al. (1997). Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology, 34(6), 623–648.
+
+•	Guyton, A. C., & Hall, J. E. (2011). Textbook of Medical Physiology (12th ed.). Saunders.	
+
+•	Mallat, S. (1999). A Wavelet Tour of Signal Processing. Academic Press.
+
+•	Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. (1996). Heart rate variability: standards of measurement, physiological interpretation and clinical use. Circulation, 93(5), 1043–1065.
 
 
