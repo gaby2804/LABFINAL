@@ -22,4 +22,11 @@ La HRV son las fluctuaciones que tiene la señal en un intervalo de tiempo que h
 
 La transformada wavelet es una herramienta que nos permite conocer las señales que no son estacionarias, como el ECG, en el que se proporciona información en el dominio del tiempo y de la frecuencia (Mallat, 1999). A partir de esta técnica se pueden identificar como varían las frecuencias características en el tiempo además de su acción en bandas de frecuencia especificas (Adisson, 2005) 
 
+## Referencias
+•	Addison, P. S. (2005). Wavelet transforms and the ECG: a review. Physiological Measurement, 26(5), R155–R199.
+	•	Berntson, G. G., Bigger, J. T., Eckberg, D. L., et al. (1997). Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology, 34(6), 623–648.
+	•	Guyton, A. C., & Hall, J. E. (2011). Textbook of Medical Physiology (12th ed.). Saunders.
+	•	Mallat, S. (1999). A Wavelet Tour of Signal Processing. Academic Press.
+	•	Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. (1996). Heart rate variability: standards of measurement, physiological interpretation and clinical use. Circulation, 93(5), 1043–1065.
+
 
