@@ -59,6 +59,7 @@ with open(filename, mode='w', newline='') as file:
     for t, v in zip(timestamps, data):
         writer.writerow([t, v])
 ```
+![image](https://github.com/user-attachments/assets/8f8a4e41-c5e2-4a73-8dd3-912c7392e157)
 
 # 1) calculos del filtro
 Se optó por aplicar un filtro digital Butterworth de tipo pasa bajos debido a su característica principal: una respuesta en frecuencia suave, sin ondulaciones en la banda pasante. Esta propiedad resulta especialmente adecuada para mantener la forma original de la señal cardíaca, evitando distorsiones que podrían afectar su análisis.
@@ -93,7 +94,7 @@ data = np.array(data)
 # Filtrar señal
 filtered_data = sosfilt(sos, data)
 ```
-![](https://github.com/gaby2804/LABFINAL/blob/main/bbd4ea40-a872-43d6-bc1f-d199a7c03973.jpg)
+
 # 2) Cálculo de la Frecuencia
 Se seleccionó una frecuencia de corte de 250 Hz considerando tanto criterios fisiológicos como prácticos. Este valor permite conservar la información más relevante del ECG, especialmente los componentes de alta frecuencia del complejo QRS, que son fundamentales para la detección precisa de los picos R. Al mismo tiempo, es lo suficientemente bajo como para atenuar el ruido de alta frecuencia que suele estar presente en las señales biomédicas.
 
