@@ -1,6 +1,6 @@
 # LABORATORIO5
 
-![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/correlacion.png)
+![](https://github.com/gaby2804/LABFINAL/blob/main/WhatsApp%20Image%202025-05-15%20at%2011.40.13%20AM.jpeg)
 ## Introduccion
 
 ## Procedimiento
