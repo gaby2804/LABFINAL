@@ -144,6 +144,10 @@ cwt_abs = np.abs(cwt_matrix)
 cwt_sum = np.sum(cwt_abs, axis=0)
 normalized_cwt = (cwt_sum - np.min(cwt_sum)) / (np.max(cwt_sum) - np.min(cwt_sum))
 ```
+#Resultados
+![image](https://github.com/user-attachments/assets/d3755068-eb7d-4230-9a40-3507b813c110)
+
+
 ## Materiales y Requerimientos
 • Python
 
